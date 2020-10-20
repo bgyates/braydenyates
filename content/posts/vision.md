@@ -16,4 +16,4 @@ disableToC: false
 disableAutoCollapse: true
 ---
 
-![Saturn Devouring his Sun](/img/goya.jpg =250x)
+![Saturn Devouring his Sun](/img/goya.jpg =182x320)
