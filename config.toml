@@ -1,4 +1,4 @@
-baseURL = "https://braydenyates-hcwwc.ondigitalocean.app/"
+baseURL = "http://braydenyates.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
